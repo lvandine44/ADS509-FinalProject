@@ -1,3 +1,4 @@
+The Project Gutenberg eBook of A Vindication of the Rights of Woman
 Title: A Vindication of the Rights of Woman
 Author: Mary Wollstonecraft
 Release date: September 1, 2002 [eBook #3420]
@@ -11,6 +12,10 @@ Col Choat  <CChoat@sanderson.net.au>
 
 Sue Asscher  <asschers@dingoblue.net.au>
 
+A VINDICATION OF THE RIGHTS OF WOMAN,
+WITH STRICTURES ON POLITICAL AND MORAL SUBJECTS,
+BY MARY WOLLSTONECRAFT.
+CONTENTS.
 M. Wollstonecraft was born in 1759.  Her father was so great a
 wanderer, that the place of her birth is uncertain; she supposed,
 however, it was London, or Epping Forest:  at the latter place she
@@ -8226,3 +8231,4 @@ ass for whom ye provide provender, and allow her the privileges of
 ignorance, to whom ye deny the rights of reason, or ye will be
 worse than Egyptian task-masters, expecting virtue where nature has
 not given understanding!
+THE FULL PROJECT GUTENBERG LICENSE
