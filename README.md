@@ -5,7 +5,7 @@ ADS509-FinalProject
 
 ## Overview
 
-This project explores thematic and linguistic differences between fiction and nonfiction texts, focusing on works that address significant societal issues such as gender roles and individual rights. Using text mining techniques such as topic modeling and sentiment analysis, we aim to uncover how each genre approaches similar themes differently.
+This project explores thematic and linguistic differences between fiction and nonfiction texts, focusing on works that address significant societal issues such as gender roles and individual rights. Using text mining techniques such as topic modeling and sentiment analysis, we aim to uncover how each genre approaches similar themes differently. The team also looks to train multiple classification models to recognize when verbiage of a text belongs to either the fiction or nonfiction genre.
 
 The dataset includes eight books: four fiction and four nonfiction works. The books were scraped from Project Gutenberg and processed for analysis. Our analysis involves text preprocessing, feature extraction, sentiment analysis, and topic modeling, with the goal of distinguishing between the styles and themes of fiction versus nonfiction.
 
@@ -53,5 +53,5 @@ git clone https://github.com/lvandine44/ADS509-FinalProject.git
 
 ## Conclusion
 
-The results demonstrate that fiction tends to focus more on dialogue and characters, while nonfiction addresses broader societal and philosophical issues. The models successfully classified the texts, and sentiment analysis revealed that fiction has a more diverse emotional tone than nonfiction.
+The results demonstrate that fiction tends to focus more on dialogue and characters, while nonfiction addresses broader societal and philosophical issues. The models successfully classified the texts, and sentiment analysis revealed that fiction has a more diverse emotional tone than nonfiction. However, the team would like to further train the modeling prior to deployment in order to find a larger margin of successful predictions.
 
